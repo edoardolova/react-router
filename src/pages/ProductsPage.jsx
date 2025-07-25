@@ -26,7 +26,6 @@ export default function ProductsPage(){
                     return(
                         <>
                             <div className="col-12 col-md-4">
-                 
                                 <div className="card h-100  ">
                                     <img src={product.image} className="card-img rouded" alt={product.title} />
                                     <div className="card-body px-1 d-flex flex-column" key={product.id}>
