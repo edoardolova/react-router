@@ -71,7 +71,7 @@ export default function HomePage(){
                     I nostri clienti sono la nostra risorsa più preziosa. Le recensioni che riceviamo ci spingono a fare sempre meglio, per offrirti prodotti e servizi di alta qualità. Scopri perché tanti clienti scelgono TXT ogni giorno.
                 </p>
                 
-                <img style={{height: '200px', width: '100%'}}src="https://media.istockphoto.com/id/1367691681/vector/five-star-rating-vector-in-paper-cut-style-design-isolated-on-grey-background-feedback.jpg?s=612x612&w=0&k=20&c=G9InAZmZqq7_rpmPyCkVqngtTix5N2AZpjmxvhrtrbc=" alt="" />
+                <img style={{height: '200px', }}src="https://media.istockphoto.com/id/1367691681/vector/five-star-rating-vector-in-paper-cut-style-design-isolated-on-grey-background-feedback.jpg?s=612x612&w=0&k=20&c=G9InAZmZqq7_rpmPyCkVqngtTix5N2AZpjmxvhrtrbc=" alt="" />
             </div>
                 
         </>
