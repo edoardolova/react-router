@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Benvenuto nel progetto **E-commerce TXT**. Questo è un sito web realizzato con **React** che offre una vasta gamma di prodotti, dall'abbigliamento agli accessori, con funzionalità di navigazione tramite React Router. Il sito include sezioni come **Home**, **Prodotti**, **About Us** e altre pagine informative.
+Benvenuto nel progetto **E-commerce TXT**. Questo è un sito web realizzato con **React** che offre una vasta gamma di prodotti, dall'abbigliamento agli accessori, con funzionalità di navigazione tramite React Router. Il sito include sezioni come **Home**, **Prodotti**, **About Us** e altre pagine di dettaglio per ogni prodotto.
 
 ## Tecnologie Utilizzate
 
